@@ -1,5 +1,8 @@
-# 🧠 Nuwa
+# Nuwa
 
-**Unifying Services. Empowering Super Agents. Built Together.**
+Nuwa is the **open protocol for building agent-accessible services**.
 
-Nuwa is the **open protocol and runtime for building agent-accessible services** — we’re building the foundation for the Super Agent era.
+## What do we wanna achieve?
+We want everyone to have the super agent they want.
+- Users get a seamless, multi-modal agent that understands them, safely stores memory for them, and acts for them across all services — without app-hopping.
+- Developers build reusable, composable “Caps” that are monetized per use, with no platform tax.
