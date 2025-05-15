@@ -1,4 +1,4 @@
-**Nuwa is an open protocol for building your personal Super Agent — one that understands your intent, remembers your context, and acts across all digital services.**
+**Nuwa is an open protocol for enabling your personal Super Agent — one that understands your intent, remembers your context, and acts across all digital services.**
 
 It consists of two core components:
 - ⚙️ **Agent Capability Protocol (ACP)**: a standard that lets developers expose services as modular, machine-readable units called **Caps**, which agents can call, combine, and pay for to get work done.
