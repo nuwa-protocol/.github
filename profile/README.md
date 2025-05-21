@@ -2,7 +2,7 @@
 
 It consists of two core components:
 - ⚙️ **Agent Capability Protocol (ACP)**: a standard that lets developers expose services as modular, machine-readable units called **Caps**, which agents can call, combine, and pay for to get work done.
-- 🛠 **Personal Agent Runtime (PAR)**: your local agentic engine for memory, wallet, and intention solving — securely storing your data and money, orchestrating Cap execution on your behalf.
+- 🛠 **Nuwa Agent Framework**: your local agentic engine for memory, wallet, and intention solving — securely storing your data and money, orchestrating Cap execution on your behalf.
 
 👤 **For users**:
 - 🔁 One consistent agent experience across all services
