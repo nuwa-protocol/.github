@@ -2,7 +2,7 @@
 
 It consists of two core components:
 - ⚙️ **Agent Capability Protocol (ACP)**: a standard that lets developers expose services as modular, machine-readable units called **Caps**, which agents can call, combine, and pay for to get work done.
-- 🛠 **Nuwa Agent Framework**: your local agentic engine for memory, wallet, and intention solving — securely storing your data and money, orchestrating Cap execution on your behalf.
+- 🛠 **Nuwa Client**: your local agentic engine for memory, wallet, and intention solving — securely storing your data and money, orchestrating Cap execution on your behalf.
 
 👤 **For users**:
 - 🔁 One consistent agent experience across all services
@@ -14,4 +14,4 @@ It consists of two core components:
 - 🚫 No gatekeepers or platform tax
 - 🤝 A shared mission: _build the Super Agent everyone wants_
 
-**🌍 Together, we can build the foundation of the agent-powered internet.**
+**🌍 Together, we can build the foundation of the agent-centric internet.**
